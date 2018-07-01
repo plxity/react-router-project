@@ -1,7 +1,7 @@
 ## To check this project follow the steps:-
   1)Clone this repository.
   
-  2)Go to the directry where you clonned it with help of terminal/CMD.
+  2)Go to the directory where you clonned it with help of terminal/CMD.
   
   3)Install node package by running command npm install.
   
